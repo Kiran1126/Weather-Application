@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme{
+  --color-deep: rgba(2, 0, 36, 1);
+  --color-mid: rgba(9, 9, 121, 1);
+  --color-sky: rgba(0, 212, 255, 1);  
+}
