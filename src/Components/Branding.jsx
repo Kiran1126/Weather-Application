@@ -1,7 +1,7 @@
 const Branding = () => {
   return (
     <section>
-      <p>Made with ❤️ By Kiran.</p>
+      <p className="text-xl">Made with ❤️ By Kiran.</p>
     </section>
   );
 };
