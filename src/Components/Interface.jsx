@@ -94,7 +94,7 @@ const MidSection = ({ error, weather }) => {
             </div>
           </div>
         ) : (
-          <img src="src/assets/Searching.jpg" />
+          <img src="src/assets/Searching.jpg" alt="Searching" />
         )
       }
     </div>
